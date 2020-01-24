@@ -1,0 +1,30 @@
+PODS:
+  - Charts (3.2.2):
+    - Charts/Core (= 3.2.2)
+  - Charts/Core (3.2.2)
+  - ObjectMapper (3.4.2)
+  - SwiftKeychainWrapper (3.2.0)
+  - TeslaKit (2.5):
+    - ObjectMapper (~> 3.3)
+
+DEPENDENCIES:
+  - Charts
+  - SwiftKeychainWrapper
+  - TeslaKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Charts
+    - ObjectMapper
+    - SwiftKeychainWrapper
+    - TeslaKit
+
+SPEC CHECKSUMS:
+  Charts: f69cf0518b6d1d62608ca504248f1bbe0b6ae77e
+  ObjectMapper: 0d4402610f4e468903ae64629eec4784531e5c51
+  SwiftKeychainWrapper: 82c4c02cdc36f9a24f7edfcaab3e336401caa1a1
+  TeslaKit: 2d0d6562c11d6159bdeef073701691e34db1ad63
+
+PODFILE CHECKSUM: 07456e63d29f8d1f38f1f4f9f41667f62d02c954
+
+COCOAPODS: 1.7.1
